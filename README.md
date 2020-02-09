@@ -20,5 +20,5 @@ Baixe diretamente do github com:
  - git clone https://github.com/AdrielFreud/FDMail.git
  - ou https://github.com/AdrielFreud/FDMail/archive/master.zip
 
-# Bibliotecas python necessarias:
+# Pacotes Necessarios:
   - .Net Framework 4.8
