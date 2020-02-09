@@ -13,6 +13,7 @@
 # Características
   - Carrega Lista De Emails.
   - Envia Emails Simultaneamente.
+  - Temporizador.
  
 # Download
 Baixe diretamente do github com:
