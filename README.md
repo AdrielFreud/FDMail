@@ -5,7 +5,7 @@
 
 # AVISO
 - Caso você encontrar um bug [Click-aqui](https://github.com/AdrielFreud/FDMail/issues/new) crie um issue para eu corrigi-lo.
- - <a href="http://www.mediafire.com/file/tzw1s01avwtlu0n/FDmail.exe/file" target="_blank">Download</a> 
+ - <a href="http://www.mediafire.com/file/c4o667rlyttrx7v/FDmail.exe/file" target="_blank">Download</a> 
 
 # Imagem
 ![photo](https://i.imgur.com/LBwvjAV.png)
