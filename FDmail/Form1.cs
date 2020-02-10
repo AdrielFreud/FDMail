@@ -103,13 +103,14 @@ namespace FDmail
                 msg.Body = textBox4.Text;
                 msg.IsHtml = true;
                 msg.Subject = textBox3.Text;
-                foreach (ListViewItem listViewItem in this.listView1.Items)
-                {
+
+               foreach (ListViewItem listViewItem in this.listView1.Items)
+               {
                     msg.ToEmail = listViewItem.SubItems[1].Text;
-                    MessageBox.Show(msg.ToEmail);
                     gmail.SendEmailMessage(msg);
                     Thread.Sleep(Convert.ToInt32(textBox5.Text));
-                }
+               }
+
             }else{
                 MessageBox.Show("Insira Valores Validos, para que o email seja Enviado!");
             }
@@ -123,12 +124,37 @@ namespace FDmail
                 if (ofd.ShowDialog() == DialogResult.OK)
                 {
                     string[] lines = System.IO.File.ReadAllLines(ofd.FileName);
-                    foreach (string line in lines)
+                    if (checkBox1.Checked)
                     {
-                        count += 1;
-                        ListViewItem item = new ListViewItem(count.ToString());
-                        item.SubItems.Add(line);
-                        listView1.Items.Add(item);
+                        char separador;
+                        if (checkBox2.Checked) {
+                            separador = '|';
+                        }
+                        if (checkBox3.Checked)
+                            separador = ';';
+                        {
+                        }
+                        if (checkBox4.Checked)
+                        {
+                            separador = ':';
+                        }
+
+                        foreach (string line in lines)
+                        {
+                            count += 1;
+                            ListViewItem item = new ListViewItem(count.ToString());
+                            item.SubItems.Add(line.Split('|')[0]);
+                            listView1.Items.Add(item);
+                        }
+                    }
+                    else {
+                        foreach (string line in lines)
+                        {
+                            count += 1;
+                            ListViewItem item = new ListViewItem(count.ToString());
+                            item.SubItems.Add(line);
+                            listView1.Items.Add(item);
+                        }
                     }
                 }
             }
