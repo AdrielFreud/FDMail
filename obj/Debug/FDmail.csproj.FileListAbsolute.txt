@@ -1,0 +1,19 @@
+C:\Users\Adriel Freud\Desktop\FDmail\FDmail\bin\Debug\FDmail.exe.config
+C:\Users\Adriel Freud\Desktop\FDmail\FDmail\bin\Debug\FDmail.exe
+C:\Users\Adriel Freud\Desktop\FDmail\FDmail\bin\Debug\FDmail.pdb
+C:\Users\Adriel Freud\Desktop\FDmail\FDmail\obj\Debug\FDmail.csprojAssemblyReference.cache
+C:\Users\Adriel Freud\Desktop\FDmail\FDmail\obj\Debug\FDmail.Properties.Resources.resources
+C:\Users\Adriel Freud\Desktop\FDmail\FDmail\obj\Debug\FDmail.csproj.GenerateResource.cache
+C:\Users\Adriel Freud\Desktop\FDmail\FDmail\obj\Debug\FDmail.exe
+C:\Users\Adriel Freud\Desktop\FDmail\FDmail\obj\Debug\FDmail.pdb
+C:\Users\Adriel Freud\Desktop\FDmail\FDmail\obj\Debug\FDmail.Form1.resources
+C:\Users\Adriel\Desktop\FDMail-master\FDmail\bin\Debug\FDmail.exe.config
+C:\Users\Adriel\Desktop\FDMail-master\FDmail\bin\Debug\FDmail.exe
+C:\Users\Adriel\Desktop\FDMail-master\FDmail\bin\Debug\FDmail.pdb
+C:\Users\Adriel\Desktop\FDMail-master\FDmail\obj\Debug\FDmail.csprojAssemblyReference.cache
+C:\Users\Adriel\Desktop\FDMail-master\FDmail\obj\Debug\FDmail.Form1.resources
+C:\Users\Adriel\Desktop\FDMail-master\FDmail\obj\Debug\FDmail.Properties.Resources.resources
+C:\Users\Adriel\Desktop\FDMail-master\FDmail\obj\Debug\FDmail.csproj.GenerateResource.cache
+C:\Users\Adriel\Desktop\FDMail-master\FDmail\obj\Debug\FDmail.csproj.CoreCompileInputs.cache
+C:\Users\Adriel\Desktop\FDMail-master\FDmail\obj\Debug\FDmail.exe
+C:\Users\Adriel\Desktop\FDMail-master\FDmail\obj\Debug\FDmail.pdb
